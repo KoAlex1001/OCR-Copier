@@ -1,0 +1,32 @@
+{
+  "main_window": {
+    "width": 400,
+    "height": 260,
+    "x": 0,
+    "y": 0
+  },
+  "popup_window": {
+    "width": 623,
+    "height": 552,
+    "x": 517,
+    "y": 304
+  },
+  "font_size": 11,
+  "hotkey": "f9"
+}
+{
+  "main_window": {
+    "width": 400,
+    "height": 260,
+    "x": 888,
+    "y": 189
+  },
+  "popup_window": {
+    "width": 449,
+    "height": 576,
+    "x": 1546,
+    "y": 248
+  },
+  "font_size": 11,
+  "hotkey": "f9"
+}
